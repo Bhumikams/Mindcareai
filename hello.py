@@ -1,2 +1,2 @@
-print("Hello from Jenkins Pipeline!")
-print("Pipeline executed successfully")
+print("Hello from Python")
+
